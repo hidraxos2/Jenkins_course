@@ -1,4 +1,24 @@
-Started at Wed Jan 26 22:03:06 UTC 2022
+Started at Thu Jan 27 03:33:19 UTC 2022
+Processing Job_archivo_externo
+Offering Job_archivo_externo to Project Build Discarder
 Processing Primer_job
 Offering Primer_job to Project Build Discarder
-Finished at Wed Jan 26 22:03:06 UTC 2022. 17ms
+Processing Second_job
+Offering Second_job to Project Build Discarder
+Finished at Thu Jan 27 03:33:19 UTC 2022. 45ms
+Started at Thu Jan 27 04:33:19 UTC 2022
+Processing Hello_jenkinsfile
+Offering Hello_jenkinsfile to Project Build Discarder
+Processing Job_archivo_externo
+Offering Job_archivo_externo to Project Build Discarder
+Processing Master_Slave
+Offering Master_Slave to Project Build Discarder
+Processing Pipeline_Jenkinsfile
+Offering Pipeline_Jenkinsfile to Project Build Discarder
+Processing Primer_job
+Offering Primer_job to Project Build Discarder
+Processing Primer_pipeline
+Offering Primer_pipeline to Project Build Discarder
+Processing Second_job
+Offering Second_job to Project Build Discarder
+Finished at Thu Jan 27 04:33:19 UTC 2022. 14ms
